@@ -60,4 +60,4 @@ p.s The stats of your Pocket pup will go down over time so don't leave it alone 
 
 Youtube showcase of the application: https://youtu.be/izpU3UxrbmA
 
-GitHub repository URL: https://github.com/Sergio-Carl-Benito/Tamagotchi-App-Assignment_2_ST10459382.git
+GitHub repository URL: https://github.com/VCCT-IMAD5112-2024-G2/Tamagotchi-App-Assignment_2_ST10459382.git
